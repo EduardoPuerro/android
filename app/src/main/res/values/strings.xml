@@ -1,0 +1,9 @@
+<resources>
+    <string name="name">¿Cuál es su nombre?</string>
+    <string name="hello">Hola</string>
+    <string name="saludo">Hola</string>
+    <string name="saludoSr">Señor</string>
+    <string name="saludoSra">Señora</string>
+    <string name="app_name">Hola personalizado</string>
+    <string name="action_settings">Settings</string>
+</resources>
